@@ -1,0 +1,14 @@
+{
+  "name": "npmtraining",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": "https://github.com/NancySy/npmTraining.git",
+  "author": "Nancy Sawaya",
+  "license": "ISC",
+  "dependencies": {},
+  "optionalDependencies": {}
+}
